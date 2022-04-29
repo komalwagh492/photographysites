@@ -1,0 +1,84 @@
+.heading {
+    padding-top: 300px;
+    padding-left: 100px;
+}
+
+div {
+    display: block;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    background: #eee;
+    height: auto;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+#header {
+    padding: 1, 5rem;
+    text-align: center;
+    background: #333;
+    color: #fff;
+}
+
+.container {
+    position: relative;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+#pic {
+    display: flex;
+    height: 100%;
+    background: #fff;
+}
+
+#text-inner {
+    padding-bottom: 200px;
+}
+
+#text {
+    display: flex;
+    flex: 0 1 40ww;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+#landing-image {
+    height: 100%;
+}
+
+.images {
+    text-align: center;
+    width: 500px;
+    height: 500px;
+}
+
+.caption {
+    padding: 0.8rem;
+    text-align: center;
+}
+
+#h2 {
+    border-left: dotted 1px #fff;
+    border-right: dotted 1px #fff;
+    display: inline-block;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+footer {
+    text-align: center;
+    padding: 2rem 1 rem;
+    margin: auto;
+    color: #333;
+    display: block;
+}
